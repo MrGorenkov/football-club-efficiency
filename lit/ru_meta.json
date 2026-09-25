@@ -1,0 +1,13 @@
+{
+ "_source": "Русские и англоязычные описания русскоязычных статей: сайты журналов и Crossref (original-title), проверено 2026-09-25: 1economic.ru/lib/112117 (Обухов, Вечкинзова), ej.hse.ru/article/view/29237 (Солнцев: citation_author, DC.Title.Alternative), Crossref original-title (Никольский–Фурманов, Цветкова, Петрунин), OpenAlex authorships (Фурманов Кирилл Константинович).",
+ "nikolskiy2023": {"ru": {"authors": ["Никольский И.", "Фурманов К. К."], "title": "Измерение точности ранжировок предприятий по эффективности в модели стохастической границы", "journal": "Прикладная эконометрика", "volume": "71", "pages": "128–142"},
+                   "en": {"authors": ["Nikolskiy I.", "Furmanov K. K."], "title": "Assessing the accuracy of efficiency rankings obtained from a stochastic frontier model", "journal": "Applied Econometrics", "volume": "71", "pages": "128–142"}},
+ "tsvetkova2021": {"ru": {"authors": ["Цветкова А. Н."], "title": "Динамика технической эффективности российских предприятий в 2013–2018 годах", "journal": "Прикладная эконометрика", "volume": "63", "pages": "91–116"},
+                   "en": {"authors": ["Tsvetkova A. N."], "title": "Technical efficiency trends of Russian firms in 2013–2018", "journal": "Applied Econometrics", "volume": "63", "pages": "91–116"}},
+ "obukhov2021": {"ru": {"authors": ["Обухов М. Я.", "Вечкинзова Е. А."], "title": "Анализ эффективности футбольных клубов российской Премьер-лиги методом DEA-моделирования", "journal": "Креативная экономика", "volume": "15", "issue": "5", "pages": "2261–2276"},
+                 "en": {"authors": ["Obukhov M. Y.", "Vechkinzova E. A."], "title": "Analysis of the Russian Premier League football clubs effectiveness by DEA-modeling", "journal": "Creative Economy", "volume": "15", "issue": "5", "pages": "2261–2276"}},
+ "solntsev2020": {"ru": {"authors": ["Солнцев И."], "title": "Повышение финансовой устойчивости российских футбольных клубов", "journal": "Экономический журнал ВШЭ", "volume": "24", "issue": "1", "pages": "117–145"},
+                  "en": {"authors": ["Solntsev I."], "title": "Improving the financial sustainability of Russian football clubs", "journal": "HSE Economic Journal", "volume": "24", "issue": "1", "pages": "117–145"}},
+ "petrunin2019": {"ru": {"authors": ["Петрунин Ю."], "title": "Конкурентный баланс и реформа сезонности в российском профессиональном футболе", "journal": "Вестник Московского университета. Серия 6: Экономика", "issue": "2", "pages": "99–115"},
+                  "en": {"authors": ["Petrunin Yu."], "title": "Competitive balance and the reform of seasonality in the Russian professional football", "journal": "Moscow University Economics Bulletin", "issue": "2", "pages": "99–115"}}
+}

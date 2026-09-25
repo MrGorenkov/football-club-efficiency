@@ -1,0 +1,51 @@
+{
+ "_note": "Presentation fixes for the reference list («Прикладная эконометрика» style: sentence-case titles, proper names capitalised). Titles are the Crossref titles re-cased by hand; names fix Crossref capitalisation; first-page-only page ranges completed from the printed articles (JSTOR records).",
+ "titles": {
+  "farrell1957": "The measurement of productive efficiency",
+  "banker1984": "Some models for estimating technical and scale inefficiencies in data envelopment analysis",
+  "charnes1981": "Evaluating program and managerial efficiency: An application of data envelopment analysis to Program Follow Through",
+  "cooper2007": "Data envelopment analysis",
+  "simar1998": "Sensitivity analysis of efficiency scores: How to bootstrap in nonparametric frontier models",
+  "simar2000": "Statistical inference in nonparametric frontier models: The state of the art",
+  "kneip2008": "Asymptotics and consistent bootstraps for DEA estimators in nonparametric frontier models",
+  "meeusen1977": "Efficiency estimation from Cobb-Douglas production functions with composed error",
+  "wang2002": "One-step and two-step estimation of the effects of exogenous variables on technical efficiency levels",
+  "kodde1986": "Wald criteria for jointly testing equality and inequality restrictions",
+  "kumbhakar2000": "Stochastic frontier analysis",
+  "bogetoft2011": "Benchmarking with DEA, SFA, and R",
+  "dawson2000": "Stochastic frontiers and the temporal structure of managerial efficiency in English soccer",
+  "carmichael2001": "Production and efficiency in association football",
+  "haas2003": "Productive efficiency of English football teams — a data envelopment analysis approach",
+  "espitia2004": "Measuring the efficiency of Spanish first-division soccer teams",
+  "kern2005": "Managerial efficiency in German top league soccer: An econometric analysis of club performances on and off the pitch",
+  "barros2006ae": "Performance evaluation of the English Premier Football League with data envelopment analysis",
+  "barros2006jse": "Analyzing the performance of the English F.A. Premier League with an econometric frontier model",
+  "guzman2007": "Measuring efficiency and productivity in professional football teams: Evidence from the English Premier League",
+  "barros2008": "Efficiency measurement of the English football Premier League with a random frontier model",
+  "frick2008": "The impact of managerial quality on organizational performance: Evidence from German soccer",
+  "gonzalez2010": "Can we be satisfied with our football team? Evidence from Spanish professional football",
+  "barros2010": "Brazilian football league technical efficiency: A Simar and Wilson approach",
+  "zambom2017": "Performance evaluation in the UEFA Champions League",
+  "szymanski1997": "The English football industry: Profit, performance and industrial structure",
+  "hall2002": "Testing causality between team performance and payroll",
+  "szymanski2003": "The economic design of sporting contests",
+  "frick2007": "The football players' labor market: Empirical evidence from the major European leagues",
+  "pawlowski2010": "Top clubs' performance and the competitive situation in European domestic football competitions",
+  "herm2014": "When the crowd evaluates soccer players' market values: Accuracy and evaluation attributes of an online community",
+  "peeters2018": "Testing the wisdom of crowds in the field: Transfermarkt valuations and international soccer results",
+  "transfermarktdatasets": "transfermarkt-datasets: Football (soccer) data scraped from Transfermarkt"
+ },
+ "names": {
+  "GarcÍa-CebriÁn": "García-Cebrián",
+  "van Den Broeck": "van den Broeck",
+  "Knox Lovell, C.A.": "Lovell, C.A.K.",
+  "Pestana Barros, Carlos": "Barros, Carlos Pestana",
+  "Wang, Hung-jen": "Wang, Hung-Jen",
+  "LucÍa": "Lucía"
+ },
+ "pages": {
+  "farrell1957": "253–290",
+  "meeusen1977": "435–444",
+  "kodde1986": "1243–1248"
+ }
+}

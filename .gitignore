@@ -1,0 +1,12 @@
+# raw Transfermarkt snapshot is re-downloaded by code/download.py
+data/raw/
+# manuscript text, journal documents and working notes are not published here
+paper/
+journal/
+00_requirements.md
+STATUS.md
+lit/notes.md
+lit/abstracts.json
+lit/crossref_cache.json
+__pycache__/
+*.pyc

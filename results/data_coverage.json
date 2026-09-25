@@ -1,0 +1,19 @@
+{
+ "value_cov_minutes_season_mean_min": 0.9963010187619359,
+ "value_cov_minutes_season_mean_max": 0.9994712891668136,
+ "value_cov_minutes_clubseason_min": 0.9433729862889371,
+ "transfer_rows_by_season": {
+  "12/13": 4055,
+  "13/14": 5048,
+  "15/16": 7353,
+  "17/18": 10125,
+  "23/24": 17379
+ },
+ "valuation_rows_by_year": {
+  "2021": 58412,
+  "2022": 59564,
+  "2023": 57576,
+  "2024": 45376,
+  "2025": 45482
+ }
+}

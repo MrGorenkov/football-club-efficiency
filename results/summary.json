@@ -1,0 +1,38 @@
+{
+ "n_club_seasons_main": 1248,
+ "n_clubs_main": 196,
+ "n_league_seasons_main": 66,
+ "n_club_seasons_2013_2025": 1472,
+ "excluded_incomplete": [
+  {
+   "league": "ES1",
+   "season": 2014,
+   "club": "Atlético de Madrid"
+  },
+  {
+   "league": "ES1",
+   "season": 2014,
+   "club": "Villarreal CF"
+  },
+  {
+   "league": "GB1",
+   "season": 2014,
+   "club": "Burnley FC"
+  },
+  {
+   "league": "RU1",
+   "season": 2014,
+   "club": "RFK Akhmat Grozny"
+  }
+ ],
+ "sw2007_n_inefficient": 963,
+ "share_efficient_m1_vrs": 0.2283653846153846,
+ "share_efficient_m2_vrs": 0.30689102564102566,
+ "mean_bias_m1": -0.15913681957856513,
+ "median_ci_width_m1": 0.09461751084054296,
+ "median_bandwidth_m1": 0.1865039848602534,
+ "corr_m1_vrs_bc_vs_te_s2_pooled": 0.7640563872972415,
+ "dea_m1_vrs_top5_full_mean": 0.796799216219238,
+ "dea_m1_vrs_top5_sub16_mean": 0.8101028403405169,
+ "dea_m1_vrs_rpl_mean": 0.8083205846000238
+}
