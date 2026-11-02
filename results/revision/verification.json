@@ -1,0 +1,8 @@
+{
+  "dea_closed_form_max_error_vs_lp": 4.440892098500626e-16,
+  "expected_ppg_monotonic": true,
+  "unique_matches": 19411,
+  "next_season_predictors": "strictly lagged, trained only on earlier target seasons",
+  "selection_warning": "Next-season sample conditions on remaining in the top tier and resource coverage.",
+  "no_causal_interpretation": true
+}

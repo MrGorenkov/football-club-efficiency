@@ -1,0 +1,21 @@
+{
+  "seed": 20261102,
+  "main_matches": 19411,
+  "main_clubseasons": 1080,
+  "main_groups": 57,
+  "excluded_groups": 9,
+  "beta": 0.9265853297569587,
+  "negative_loglik": 19061.83882211431,
+  "max_abs_gradient": 0.000449399719113619,
+  "bootstrap_refits": 199,
+  "simulations_per_group": 1000,
+  "model": "Davidson, league-specific home and draw intercepts, common nonnegative log-resource slope",
+  "expected_ppg_min": 0.5842938209577521,
+  "expected_ppg_max": 2.2833072549491185,
+  "outside_null_envelopes": 16,
+  "mean_observed_dea": 0.8247805607805329,
+  "mean_null_dea": 0.8627253822845183,
+  "conditional_validation_logloss_gain": 0.08733181177495554,
+  "mean_within_rho_dea_points": 0.5663630737051185,
+  "warning": "Simulation envelopes are conditional model reference distributions, not confidence intervals for managerial efficiency. Realised minute weights and value feedback preclude causal/ex-ante claims."
+}

@@ -1,5 +1,6 @@
 # raw Transfermarkt snapshot is re-downloaded by code/download.py
 data/raw/
+data/revision_*.csv
 # manuscript text, journal documents and working notes are not published here
 paper/
 journal/

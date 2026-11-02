@@ -1,0 +1,8 @@
+competition_id,name,type
+CL,uefa-champions-league,international_cup
+CLQ,uefa-champions-league-qualifying,international_cup
+ECLQ,uefa-conference-league-qualifying,other
+EL,uefa-europa-league,other
+ELQ,uefa-europa-league-qualifying,other
+UCOL,uefa-conference-league,other
+USC,uefa-super-cup,international_cup

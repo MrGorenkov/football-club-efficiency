@@ -1,0 +1,14 @@
+{
+  "resource_definition": "11 * sum(pre-match value * played minutes) / valued minutes; strictly prior valuations, at most 365 days old",
+  "resource_status": "realised retrospective exposure, not preseason endowment or causal spending",
+  "all_matches": 22551,
+  "usable_matches": 21070,
+  "all_groups": 66,
+  "complete_groups": 3,
+  "complete_group_matches": 1000,
+  "europe_changed_clubseasons": 189,
+  "same_day_values_excluded": true,
+  "minimum_coverage": 0.95,
+  "minimum_players": 11,
+  "maximum_valuation_age_days": 365
+}

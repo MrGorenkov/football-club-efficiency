@@ -4,6 +4,7 @@ The project publishes each table as a gzip CSV on its public bucket (links in th
 Writes data/raw/<table>.csv.gz and data/raw/manifest.json (size, SHA-256, HTTP Last-Modified).
 """
 import hashlib
+import argparse
 import json
 from pathlib import Path
 
@@ -16,9 +17,12 @@ TABLES = ["games", "club_games", "clubs", "competitions", "players", "player_val
 
 
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--tables', nargs='+', choices=TABLES, default=TABLES)
+    args = parser.parse_args()
     RAW.mkdir(parents=True, exist_ok=True)
     manifest = {}
-    for t in TABLES:
+    for t in args.tables:
         url = f"{BASE}{t}.csv.gz"
         r = requests.get(url, timeout=600)
         r.raise_for_status()

@@ -1,0 +1,461 @@
+{
+  "10.1080/01621459.1970.10481082": {
+    "title": [
+      "On Extending the Bradley-Terry Model to Accommodate Ties in Paired Comparison Experiments"
+    ],
+    "author": [
+      {
+        "given": "Roger R.",
+        "family": "Davidson",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1970,
+          3
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1970,
+          3
+        ]
+      ]
+    },
+    "container-title": [
+      "Journal of the American Statistical Association"
+    ],
+    "volume": "65",
+    "issue": "329",
+    "page": "317-328",
+    "abstract": null,
+    "DOI": "10.1080/01621459.1970.10481082",
+    "verified": "Crossref DOI lookup 2026-11-02"
+  },
+  "10.1177/1527002510391582": {
+    "title": [
+      "Measuring Technical Efficiency in Sports"
+    ],
+    "author": [
+      {
+        "given": "Trevor",
+        "family": "Collier",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "University of Dayton, Dayton, OH, USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Andrew L.",
+        "family": "Johnson",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Texas A&M, College Station, TX, USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "John",
+        "family": "Ruggiero",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Dayton, Dayton, OH, USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2010,
+          12,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          12,
+          27
+        ]
+      ]
+    },
+    "container-title": [
+      "Journal of Sports Economics"
+    ],
+    "volume": "12",
+    "issue": "6",
+    "page": "579-598",
+    "abstract": "<jats:p>Standard economic production theory is the basis for measuring technical efficiency in sports. Using programming or regression models, efficiency is defined as the distance of a given team observation from the technology. In this article, the authors show that the standard measures of efficiency using deterministic models are biased downward due to serial correlation with respect to the efficiency measure. In particular, if the number of observed wins for a given team is affected by the team’s inefficiency, it is necessarily true that another team is able to produce outside of the technology. As a result, the observed frontier is not feasible if all inefficiency is eliminated. In this article, the authors propose a correction to this problem and apply new models to estimate efficiency in professional football.</jats:p>",
+    "DOI": "10.1177/1527002510391582",
+    "verified": "Crossref DOI lookup 2026-11-02"
+  },
+  "espitia2014": {
+    "id": "https://openalex.org/W2159877990",
+    "title": "Comparison of efficiency measures for Spanish first division football teams using data envelopment and stochastic frontier analyses",
+    "publication_year": 2014,
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5040086930",
+          "display_name": "Manuel Antonio Espitia Escuer",
+          "orcid": "https://orcid.org/0000-0002-8496-5656",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-8496-5656"
+          ]
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Manuel Antonio Espitia Escuer",
+        "raw_affiliation_strings": [],
+        "raw_orcid": "https://orcid.org/0000-0002-8496-5656",
+        "affiliations": []
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5087627729",
+          "display_name": "Lucía Isabel García­ Cebrián",
+          "orcid": "https://orcid.org/0000-0002-0772-0321",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-0772-0321"
+          ]
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Lucía Isabel García­ Cebrián",
+        "raw_affiliation_strings": [],
+        "raw_orcid": "https://orcid.org/0000-0002-0772-0321",
+        "affiliations": []
+      }
+    ],
+    "primary_location": {
+      "id": "pmh:oai:RePEc:eac:articl:13/13",
+      "doi": null,
+      "is_oa": false,
+      "landing_page_url": "http://www.unagaliciamoderna.com/eawp/coldata/upload/Vol2_2014_Spanish_football_teams.pdf",
+      "pdf_url": "http://www.unagaliciamoderna.com/eawp/coldata/upload/Vol2_2014_Spanish_football_teams.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306401271",
+        "display_name": "RePEc: Research Papers in Economics",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I77793887",
+        "host_organization_name": "Federal Reserve Bank of St. Louis",
+        "host_organization_lineage": [
+          "https://openalex.org/I77793887"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "article"
+    },
+    "doi": null,
+    "abstract_inverted_index": {
+      "The": [
+        0,
+        38,
+        58,
+        85
+      ],
+      "aim": [
+        1
+      ],
+      "of": [
+        2,
+        10,
+        19,
+        71,
+        91,
+        104
+      ],
+      "this": [
+        3
+      ],
+      "study": [
+        4,
+        39
+      ],
+      "was": [
+        5,
+        40
+      ],
+      "to": [
+        6,
+        99
+      ],
+      "analyse": [
+        7
+      ],
+      "the": [
+        8,
+        11,
+        16,
+        24,
+        43,
+        49,
+        68,
+        72,
+        75,
+        92,
+        102
+      ],
+      "robustness": [
+        9
+      ],
+      "efficiency": [
+        12
+      ],
+      "ratios": [
+        13
+      ],
+      "calculated": [
+        14
+      ],
+      "by": [
+        15,
+        29
+      ],
+      "original": [
+        17
+      ],
+      "version": [
+        18
+      ],
+      "Data": [
+        20
+      ],
+      "Envelopment": [
+        21
+      ],
+      "Analysis": [
+        22
+      ],
+      "(DEA),": [
+        23
+      ],
+      "modified": [
+        25
+      ],
+      "version,": [
+        26
+      ],
+      "as": [
+        27
+      ],
+      "proposed": [
+        28
+      ],
+      "Andersen": [
+        30
+      ],
+      "and": [
+        31,
+        34,
+        56,
+        79
+      ],
+      "Petersen": [
+        32
+      ],
+      "(1993),": [
+        33
+      ],
+      "stochastic": [
+        35,
+        80
+      ],
+      "frontier": [
+        36,
+        81
+      ],
+      "analysis.": [
+        37
+      ],
+      "performed": [
+        41
+      ],
+      "on": [
+        42
+      ],
+      "football": [
+        44,
+        51
+      ],
+      "teams": [
+        45
+      ],
+      "that": [
+        46,
+        61
+      ],
+      "played": [
+        47
+      ],
+      "in": [
+        48,
+        101
+      ],
+      "Spanish": [
+        50
+      ],
+      "First": [
+        52
+      ],
+      "Division": [
+        53
+      ],
+      "between": [
+        54,
+        67,
+        77
+      ],
+      "1998": [
+        55
+      ],
+      "2010.": [
+        57
+      ],
+      "results": [
+        59
+      ],
+      "show": [
+        60
+      ],
+      "consistency": [
+        62
+      ],
+      "conditions": [
+        63
+      ],
+      "are": [
+        64
+      ],
+      "generally": [
+        65
+      ],
+      "met": [
+        66
+      ],
+      "two": [
+        69
+      ],
+      "versions": [
+        70
+      ],
+      "DEA,": [
+        73
+      ],
+      "but": [
+        74
+      ],
+      "correlation": [
+        76
+      ],
+      "them": [
+        78
+      ],
+      "analysis": [
+        82
+      ],
+      "is": [
+        83,
+        96
+      ],
+      "less.": [
+        84
+      ],
+      "conclusions": [
+        86
+      ],
+      "offer": [
+        87
+      ],
+      "some": [
+        88
+      ],
+      "possible": [
+        89
+      ],
+      "interpretations": [
+        90
+      ],
+      "discrepancies": [
+        93
+      ],
+      "identified.": [
+        94
+      ],
+      "This": [
+        95
+      ],
+      "what": [
+        97
+      ],
+      "leads": [
+        98
+      ],
+      "recovery": [
+        100
+      ],
+      "absence": [
+        103
+      ],
+      "stabilization": [
+        105
+      ],
+      "policies.": [
+        106
+      ]
+    },
+    "verified": "OpenAlex exact title match 2026-11-02"
+  }
+}
