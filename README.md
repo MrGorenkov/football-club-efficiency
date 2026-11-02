@@ -16,6 +16,7 @@ python code/download.py --tables games competitions appearances player_valuation
 python code/revision_panel.py
 python code/revision_analysis.py
 python code/revision_checks.py
+python code/revision_figures.py
 ```
 
 Alternatively pass `--source /path/to/csv/tables` to `revision_panel.py`. Gzip CSVs are supported.
